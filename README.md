@@ -1,3 +1,3 @@
-# project-proposal
+# Project Proposal
 
-프로젝트 계획서를 모아 두는 곳
+본인이 생각한 제안서 및 프로젝트 계획서 저장 Repository.
